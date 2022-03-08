@@ -1,2 +1,2 @@
 # spring-training
-traning spring project
+ spring project for training purpose
