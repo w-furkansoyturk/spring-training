@@ -13,7 +13,6 @@ import java.util.Objects;
 @Table(name = "user")
 @Getter
 @Setter
-@ToString
 @RequiredArgsConstructor
 public class User extends BaseEntity {
 
